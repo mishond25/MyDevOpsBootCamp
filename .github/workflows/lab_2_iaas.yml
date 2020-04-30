@@ -8,7 +8,7 @@ on:
 name: Lab_2_IaaS
 
 env:
-  RG_NAME: rg-lab-2 (New)
+  RG_NAME: rg-lab-2-new
   LOCATION: westus2
 
 jobs:
